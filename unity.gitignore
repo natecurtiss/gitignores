@@ -1,7 +1,7 @@
 # This .gitignore file should be placed at the root of your Unity project directory
-#
+
 # The newest version can be found at https://github.com/n8dev-yt/gitignores/blob/main/unity.gitignore
-#
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
