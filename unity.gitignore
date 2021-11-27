@@ -20,7 +20,7 @@
 # /[Aa]ssets/Plugins
 
 # Commonly used Unity assets you don't want to include
-/[Aa]ssets/Plugins/Demigant
+/[Aa]ssets/Plugins/Demigiant
 /[Aa]ssets/Plugins/TextMesh*Pro
 /[Aa]ssets/Plugins/Sirenix
 
